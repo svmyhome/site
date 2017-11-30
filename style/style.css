@@ -30,4 +30,6 @@ p{
 	box-sizing: border-box;
 	border-radius: 10px;
 	text-decoration: underline;
+	text-transform: uppercase;
+	font-weight: bold;
 }
