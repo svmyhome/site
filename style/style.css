@@ -21,10 +21,10 @@ p{
 }
 .footer{
 	margin: 0 auto;
-	background-color: grey;
+	background-color: #E3E3E3;
 	text-align: center;
 	font-size: 1.2em;
-	width: 600px;
+	width: 700px;
 	height:100px;
 	padding-top: 35px;
 	box-sizing: border-box;
@@ -32,4 +32,6 @@ p{
 	text-transform: uppercase;
 	font-weight: bold;
 	display:block;
+	color: #5278E3;
+	box-shadow: 10px 10px 15px #fff;
 }
